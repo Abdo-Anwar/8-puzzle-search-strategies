@@ -168,11 +168,13 @@ You can modify the initial board configuration, select the search algorithm, and
 
 ---
 
-## Author
+##  Author 
 
-**Abdelrhman Anwar**
+**Abdelrhman Anwar**  
+  Data Engineer  
 
-Data and Analytics Engineer
+📧 **Email:** [abd.ahm.anwar@gmail.com](mailto:abd.ahm.anwar@gmail.com)  
+🔗 **LinkedIn:** [www.linkedin.com/in/abdelrhman-anwar](https://www.linkedin.com/in/abdelrhman-anwar)
 
 ---
 
