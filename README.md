@@ -113,11 +113,12 @@ The table below summarizes performance on a challenging initial configuration:
 
 ---
 
+
 ## Example Run
 
 **Figure — Sample A* (Manhattan) execution** showing step‑by‑step board transitions and final statistics.
 
-`assets/sample_a_star_run.png`
+![Figure 1](assets/sample_a_star_run.png)
 
 This trace highlights how heuristic guidance quickly converges to an optimal solution while avoiding excessive exploration.
 
