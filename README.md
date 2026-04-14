@@ -172,7 +172,7 @@ You can modify the initial board configuration, select the search algorithm, and
 
 **Abdelrhman Anwar**
 
-AI & Search Algorithms
+Data and Analytics Engineer
 
 ---
 
